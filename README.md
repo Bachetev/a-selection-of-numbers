@@ -1,7 +1,15 @@
 # Number Selection
 
-An educational programming project focused on selecting or filtering values from a set of numbers.
+An educational programming exercise focused on selecting values from a collection of numbers.
 
-## Project files
+## Overview
 
-The original project is included in the `Выборка из чисел.rar` archive.
+The repository contains the original project as a compressed archive. The exact selection rules and implementation should be confirmed by reviewing the source code.
+
+## Project contents
+
+- `Выборка из чисел.rar` — archived source project.
+
+## Status
+
+Source code, examples, and run instructions are not yet documented in this repository.
